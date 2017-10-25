@@ -1,0 +1,6 @@
+[package]
+name = "graph_tools"
+version = "0.1.0"
+authors = ["bakinovsky-m <makbak@ya.ru>"]
+
+[dependencies]
